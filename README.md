@@ -1,4 +1,4 @@
-# Varitional Inequality Networks (VINs)
+# Variational Inequality Networks (VINs)
 
 This repo provides the code for the paper _Variational Inequlaity Network_ (preprint available here). 
 
