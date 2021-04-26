@@ -13,3 +13,5 @@ Please cite as
 Compatible with python 3.5+ and known to work with pytorch 1.4, torchvision 0.5, and numpy 1.18. Can install with pip install -r requirements.txt.
 
 All codes for this project were run on Google Colab. Jupyter notebook files may be downloaded directly or may be run on Google Colab via the links below.
+
+[RockPaperScissors](https://colab.research.google.com/drive/1UZuq4dsO8McE1DGl7ZBXp6PKVH0xuqDq#scrollTo=_Xu9mCVEhFN3)
