@@ -4,13 +4,13 @@ This repo provides the code for the paper _Learning to Predict Equilibria via Fi
 
 Please cite as
 
-    @article{????2021feasibility,
+    @article{McKenzie2021Learning,
         title={Learning to Predict Equalibria via Fixed Point Networks},
-        author={????},
+        author={McKenzie, Daniel and Heaton, Howard and Li, Qiuwei and Fung, Samy Wu and Osher, Stanley and Yin, Wotao},
         journal={arXiv preprint arXiv:????.?????},
         year={2021}}
 
-All codes for this project were run on Google Colab. Jupyter notebook files may be downloaded directly or may be run on Google Colab via the links below.
+All codes for this project were run on Google Colab. Jupyter notebook files may be downloaded directly from this repo or may be run on Google Colab via the links below.
 
 [RockPaperScissors](https://colab.research.google.com/drive/1UZuq4dsO8McE1DGl7ZBXp6PKVH0xuqDq#scrollTo=_Xu9mCVEhFN3)
 
