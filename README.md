@@ -16,9 +16,14 @@ All codes for this project were run on Google Colab. Jupyter notebook files may 
 
 [Toy Traffic Routing](https://colab.research.google.com/drive/15cUv4cPJdPYm4tWC8t1OfrVSLet7h59h?usp=sharing)
 
-
-[Create Training Data](https://colab.research.google.com/drive/10NtwIPmDkHl_X6rHBUJxOqY7iIEqV3-H?usp=sharing)
-
 [Anaheim Traffic Routing Driver](https://colab.research.google.com/drive/1p5NxcfGCzGFzMHv4yKvxgSD9KN5jMc2r?usp=sharing)
 
 [Sioux Falls Traffic Routing Driver](https://colab.research.google.com/drive/1JYYacauHAuI6s4a7-ngyXx2A-l6JvtkS?usp=sharing)
+
+[Berlin Friedrichshain Driver](https://colab.research.google.com/drive/1um95xSWQWIrNN53oWkDwM0XzWSkabRBG?usp=sharing)
+
+[Berlin Tiergarten Driver](https://colab.research.google.com/drive/1OqvQvKbxu18XwywCEg0wOup31JM42haZ?usp=sharing)
+
+[Eastern Massachusetts](https://colab.research.google.com/drive/1VHMaHQQhFqJ5t5pwj5TZjEAavr8s5N2p?usp=sharing)
+
+We also provide a notebook showing how we generated our training data [here](https://colab.research.google.com/drive/10NtwIPmDkHl_X6rHBUJxOqY7iIEqV3-H?usp=sharing). However, we also provide the exact training data that was used in the paper. You can download the (already generated) data from this [link](https://drive.google.com/drive/folders/1XsyxT664yjyIXsnAG9gFeKYEtMlWWp-j?usp=sharing)
