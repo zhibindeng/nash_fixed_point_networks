@@ -26,4 +26,4 @@ All codes for this project were run on Google Colab. Jupyter notebook files may 
 
 [Eastern Massachusetts Traffic Routing](https://colab.research.google.com/drive/1VHMaHQQhFqJ5t5pwj5TZjEAavr8s5N2p?usp=sharing)
 
-We also provide a notebook showing how we generated our training data [here](https://colab.research.google.com/drive/10NtwIPmDkHl_X6rHBUJxOqY7iIEqV3-H?usp=sharing). However, we also provide the exact training data that was used in the paper. You can download the (already generated) data from this [link](https://drive.google.com/drive/folders/1XsyxT664yjyIXsnAG9gFeKYEtMlWWp-j?usp=sharing)
+We also provide a notebook showing how we generated our training data for the city traffic routing problems [here](https://colab.research.google.com/drive/10NtwIPmDkHl_X6rHBUJxOqY7iIEqV3-H?usp=sharing). The exact training data (already generated) that was used in the paper can be downloaded from  this [link](https://drive.google.com/drive/folders/1XsyxT664yjyIXsnAG9gFeKYEtMlWWp-j?usp=sharing)
