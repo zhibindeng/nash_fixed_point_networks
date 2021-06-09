@@ -1,13 +1,13 @@
 # Nash Fixed Point Networks (N-FPNs)
 
-This repo provides the code for the paper _Learning to Predict Equilibria via Fixed Point Networks_ (preprint available here). 
+This repo provides the code for the paper _Learning to Predict Equilibria via Fixed Point Networks_ (preprint available [here](https://arxiv.org/abs/2106.00906)). 
 
 Please cite as
 
-    @article{McKenzie2021Learning,
+    @article{Heaton2021Learning,
         title={Learning to Predict Equalibria via Fixed Point Networks},
-        author={McKenzie, Daniel and Heaton, Howard and Li, Qiuwei and Fung, Samy Wu and Osher, Stanley and Yin, Wotao},
-        journal={arXiv preprint arXiv:????.?????},
+        author={Heaton, Howard and McKenzie, Daniel and Li, Qiuwei and Fung, Samy Wu and Osher, Stanley and Yin, Wotao},
+        journal={arXiv preprint arXiv:2106.00906},
         year={2021}}
 
 All codes for this project were run on Google Colab. Jupyter notebook files may be downloaded directly from this repo or may be run on Google Colab via the links below.
